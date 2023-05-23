@@ -1,4 +1,4 @@
-package org.gilmarbljr.gabariteidesktop.business;
+package org.gilmarbljr.gabaritei.business;
 
 /**
 *

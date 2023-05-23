@@ -1,11 +1,11 @@
-package org.gilmarbljr.gabariteidesktop;
+package org.gilmarbljr.gabaritei;
 
 import java.util.List;
 
-import org.gilmarbljr.gabariteidesktop.business.BusinessException;
-import org.gilmarbljr.gabariteidesktop.business.domain.Materia;
+import org.gilmarbljr.gabaritei.business.BusinessException;
+import org.gilmarbljr.gabaritei.business.domain.Materia;
 //import org.gilmarbljr.gabariteidesktop.business.domain.Questao;
-import org.gilmarbljr.gabariteidesktop.data.JPAMateriaDAO;
+import org.gilmarbljr.gabaritei.data.JPAMateriaDAO;
 //import org.gilmarbljr.gabariteidesktop.data.JPAQuestaoDAO;
 
 public class App 

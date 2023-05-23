@@ -1,9 +1,9 @@
-package org.gilmarbljr.gabariteidesktop.data;
+package org.gilmarbljr.gabaritei.data;
 
 import java.util.List;
 
-import org.gilmarbljr.gabariteidesktop.business.BusinessException;
-import org.gilmarbljr.gabariteidesktop.business.domain.Questao;
+import org.gilmarbljr.gabaritei.business.BusinessException;
+import org.gilmarbljr.gabaritei.business.domain.Questao;
 
 /**
 *

@@ -1,4 +1,4 @@
-package org.gilmarbljr.gabariteidesktop.business.domain;
+package org.gilmarbljr.gabaritei.business.domain;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

@@ -1,9 +1,9 @@
-package org.gilmarbljr.gabariteidesktop.business.domain;
+package org.gilmarbljr.gabaritei.business.domain;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import org.gilmarbljr.gabariteidesktop.business.BusinessException;
+import org.gilmarbljr.gabaritei.business.BusinessException;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

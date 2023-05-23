@@ -1,4 +1,4 @@
-package org.gilmarbljr.gabariteidesktop.data;
+package org.gilmarbljr.gabaritei.data;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
