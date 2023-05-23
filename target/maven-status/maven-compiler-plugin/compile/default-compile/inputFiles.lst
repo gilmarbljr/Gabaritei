@@ -1,0 +1,9 @@
+/home/carol/eclipse-workspace/gabariteidesktop/src/main/java/org/gilmarbljr/gabariteidesktop/App.java
+/home/carol/eclipse-workspace/gabariteidesktop/src/main/java/org/gilmarbljr/gabariteidesktop/data/JPAQuestaoDAO.java
+/home/carol/eclipse-workspace/gabariteidesktop/src/main/java/org/gilmarbljr/gabariteidesktop/business/domain/Questao.java
+/home/carol/eclipse-workspace/gabariteidesktop/src/main/java/org/gilmarbljr/gabariteidesktop/business/BusinessException.java
+/home/carol/eclipse-workspace/gabariteidesktop/src/main/java/org/gilmarbljr/gabariteidesktop/data/JPAUtils.java
+/home/carol/eclipse-workspace/gabariteidesktop/src/main/java/org/gilmarbljr/gabariteidesktop/data/MateriaDAO.java
+/home/carol/eclipse-workspace/gabariteidesktop/src/main/java/org/gilmarbljr/gabariteidesktop/data/QuestaoDAO.java
+/home/carol/eclipse-workspace/gabariteidesktop/src/main/java/org/gilmarbljr/gabariteidesktop/data/JPAMateriaDAO.java
+/home/carol/eclipse-workspace/gabariteidesktop/src/main/java/org/gilmarbljr/gabariteidesktop/business/domain/Materia.java
